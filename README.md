@@ -1,0 +1,1 @@
+# plugins-meks-smart-social-widget
